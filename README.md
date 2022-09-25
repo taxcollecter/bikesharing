@@ -4,11 +4,17 @@
 In an effort to convince investors that a bike-sharing program in Des Moines is a solid business proposal, we’ve compiled and analyzed usage data that highlights break outs by Time, Gender, and User type. 	
 
 ## Results
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-While May has the most plays launched by month, it also has the highest success rate at 66.87%. Reviewing the months with the lowest number of launch dates, January, March, September, and December, they also show the lowest success rates.
-
-
+- August Peak Hours
+This graph highlights peak Bike usage. Notice the steady climb of usage beginning at 10 and subsiding at the 18th hour of the day.
 [link to dashboard](https://public.tableau.com/app/profile/law.campbell/viz/MSUWork7/AugustPeakHours?publish=yes)
+
+- Trips by Weekday per Hour
+This graph presents bike usage by Hour and Day. AM and PM rush hours are consistent during the work week (Save Wednesday afternoon as an outlier). 
+[link to dashboard](https://public.tableau.com/app/profile/law.campbell/viz/MSUWork2/Sheet2?publish=yes)
+
+- Trips by Weekday per Hour by Gender
+Extending the previous graph we break out usage by Hour/Day and Gender. Note our heavier users skew towards the Male population.
+[link to dashboard](https://public.tableau.com/app/profile/law.campbell/viz/MSUWork4/TripsbyGender?publish=yes)
 
 
 
