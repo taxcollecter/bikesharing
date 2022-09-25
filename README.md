@@ -8,7 +8,7 @@ In an effort to convince investors that a bike-sharing program in Des Moines is 
 While May has the most plays launched by month, it also has the highest success rate at 66.87%. Reviewing the months with the lowest number of launch dates, January, March, September, and December, they also show the lowest success rates.
 
 
-![link to dashboard](https://public.tableau.com/app/profile/law.campbell/viz/MSUWork7/AugustPeakHours?publish=yes)
+[link to dashboard](https://public.tableau.com/app/profile/law.campbell/viz/MSUWork7/AugustPeakHours?publish=yes)
 
 
 
