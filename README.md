@@ -24,12 +24,17 @@ This view layers on User Type (Customer/Subscriber). It reaffirms the heavier us
 Presents usage duration by gender. Stark variance between the various genders as the Male population again triples that of the Female populaation. 
 [link to dashboard](https://public.tableau.com/app/profile/law.campbell/viz/MSUWork3/CheckoutTimesbyGender?publish=yes)
 
-- Checkout Times for Users
-Removing the break out by Gender, we see that the Majority of our trips persist for less than 20 minutes. We should market our trips for payments of 5 minute intervals. 
-[link to dashboard](https://public.tableau.com/app/profile/law.campbell/viz/MSUWork/Sheet1?publish=yes)
-
-- Appendix view: User Type Break out
-To aid in consumption, note of the 2.3M rides 1.9M consisted of members subscribed to do so.  
-[link to dashboard](https://public.tableau.com/app/profile/law.campbell/viz/MSUWork6/Sheet6?publish=yes)
 
 ## Summary
+In summary, we believe there is a prime opportunity to introduce the Bike sharing program in Des Moines! Per the data, we have a supportive Male population. Clearly there are opportunities to win with the Female population as well. We will need to ensure bikes are ready for both Rush hours 8am/5pm, where the bikes are heavily leveraged. We will also want to determine how we can market Lunch and Weekend usage to get these numbers up. I've added links to other opportunities to dig into below. Finally, the view have been compiled in a store to aid in consumption. 
+
+- Consolidated Story for consumption
+[link to dashboard](https://public.tableau.com/app/profile/law.campbell/viz/MSUStory/Story1?publish=yes)
+
+- Additional Opportunity #1
+Removing the break out by Gender, we see that the Majority of our trips persist for less than 20 minutes. We should market our trips for payments of 5 minute intervals. This will give the customer more control over their charges AND enable the bikes to be reset and reused more frequently.  
+[link to dashboard](https://public.tableau.com/app/profile/law.campbell/viz/MSUWork/Sheet1?publish=yes)
+
+- Additional Opportunity #2
+Of the 2.3M rides, 1.9M consisted of members subscribed. Clearly we need to address how we can increase the usage of the bikes by those who are not subscribed.   
+[link to dashboard](https://public.tableau.com/app/profile/law.campbell/viz/MSUWork6/Sheet6?publish=yes)
