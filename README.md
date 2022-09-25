@@ -16,7 +16,13 @@ This graph presents bike usage by Hour and Day. AM and PM rush hours are consist
 Extending the previous graph we break out usage by Hour/Day and Gender. Note our heavier users skew towards the Male population.
 [link to dashboard](https://public.tableau.com/app/profile/law.campbell/viz/MSUWork4/TripsbyGender?publish=yes)
 
+- Trips by Weekday/Gender/User Type
+This view layers on User Type (Customer/Subscriber). It reaffirms the heavier usage by the Male population. Note, the non-subscribers show consistency between genders to usage.
+[link to dashboard](https://public.tableau.com/app/profile/law.campbell/viz/MSUWork5/Sheet5?publish=yes)
 
+- Checkout Times by Gender
+Presents usage duration by gender. Stark variance between the various genders as the Male population again triples that of the Female populaation. 
+[link to dashboard](https://public.tableau.com/app/profile/law.campbell/viz/MSUWork3/CheckoutTimesbyGender?publish=yes)
 
 The most successful campaigns had goals >$5000 or between $35k and $45k. The worst performing campaigns occurred when goals exceeded $45k.
 - What are some limitations of this dataset?
