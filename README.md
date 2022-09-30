@@ -29,7 +29,7 @@ Presents usage duration by gender. Stark variance between the various genders as
 In summary, we believe there is a prime opportunity to introduce the Bike sharing program in Des Moines! Per the data, we have a supportive Male population. Clearly there are opportunities to win with the Female population as well. We will need to ensure bikes are ready for both Rush hours 8am/5pm, where the bikes are heavily leveraged. We will also want to determine how we can market Lunch and Weekend usage to get these numbers up. I've added links to other opportunities to dig into below. Finally, the view have been compiled in a store to aid in consumption. 
 
 - Consolidated Story for consumption
-[link to dashboard](https://public.tableau.com/app/profile/law.campbell/viz/MSUStory/Story1?publish=yes)
+[link to story](https://public.tableau.com/app/profile/law.campbell/viz/MSUStory/Story1?publish=yes)
 
 - Additional Opportunity #1
 Removing the break out by Gender, we see that the Majority of our trips persist for less than 20 minutes. We should market our trips for payments of 5 minute intervals. This will give the customer more control over their charges AND enable the bikes to be reset and reused more frequently.  
